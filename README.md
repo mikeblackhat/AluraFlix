@@ -1,7 +1,6 @@
 ![Logo de AluraFlix](./src/assets/img/logo.svg)  
 
 <hr>  
-![GitHub estrellas](https://img.shields.io/github/stars/mikeblackhat?style=social)  
 ### Índice  
 
 - [Descripción del proyecto](#Descripción-del-proyecto) 
